@@ -1,0 +1,36 @@
+[
+	{
+		"aparelho":"Galaxy J7 Neo",
+		"ref":"SM-J701M",
+		"valor":"R$250",
+		"imagem":"https://images.samsung.com/is/image/samsung/br-galaxy-j7-neo-sm-j701mzknzto-frontblack-thumb-74045723"
+	},
+
+	{
+		"aparelho":"Galaxy J7 Pro",
+		"ref":"SM-J730G",
+		"valor":"R$290",
+		"imagem":"https://images.samsung.com/is/image/samsung/ph-galaxy-j7-2017-sm-j730gzkgxtc-frontblack-thumb-69641683"
+	},
+
+	{
+		"aparelho":"Galaxy A7 2017",
+		"ref":"SM-A720F",
+		"valor":"R$265",
+		"imagem":"https://imagens.canaltech.com.br/produto/1540320367-3126-principal-m.png"
+	},
+
+	{
+		"aparelho":"Galaxy A5 2017",
+		"ref":"SM-A520F",
+		"valor":"R$283",
+		"imagem":"https://imagens.canaltech.com.br/produto/1540319968-1298-principal-m.png"
+	},
+
+	{
+		"aparelho":"Galaxy S8+ (Plus)",
+		"ref":"SM-G955F",
+		"valor":"R$245",
+		"imagem":"https://imagens.canaltech.com.br/produto/1540320643-3988-principal-m.png"
+	}
+]
